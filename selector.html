@@ -39,7 +39,22 @@
         div,a,h3{
             color:brown;
         }
-        
+
+        /* attribute selector */
+
+        input[value="select me"]{
+            color:green;
+        }
+
+        /* descendent */
+        div p span{
+            background-color: black;
+        }
+
+        /* children */
+        div>p>span{
+            background-color: cadetblue;
+        }
 
     </style>
 </head>
@@ -63,5 +78,32 @@
     <div>I am a div</div>
     <a href="">link to some site</a>
     <h3>I am heading 3</h3>
+
+    <!-- attribute selectors -->
+    <h1>Attribute selector</h1>
+
+    <input type="text" value="something">
+
+    <input type="text" value="select me">
+
+    <!-- children -->
+    <h1>children</h1>
+    <div>
+        <p>
+            <span>Children example</span>
+        </p>
+    </div>
+
+    <!-- descendent -->
+    <h1>descendent</h1>
+    <div>
+        <span>
+            <p>
+                <span>Descendent example</span>
+            </p>
+        </span>
+    </div>
+
+
 </body>
 </html>
