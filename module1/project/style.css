@@ -59,3 +59,17 @@ article div h3{
 article p{
     font-size: 1.4rem;
 }
+
+footer{
+    background-color: black;
+    color: white;
+    height: 4rem;
+    text-align: center;
+}
+
+footer h3{
+    position: relative;
+    font-size: 1.5rem ;
+    font-weight: 300;
+    top:1rem;
+}
