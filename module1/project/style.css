@@ -39,3 +39,23 @@ section img{
     width: 95vw;
     left: 1.5vw;
 }
+
+article{
+    display: flex;
+    justify-content:space-between;
+    margin-top:3rem;
+}
+
+article div{
+    text-align: center;
+    margin:2rem;
+}
+
+article div h3{
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+
+article p{
+    font-size: 1.4rem;
+}
