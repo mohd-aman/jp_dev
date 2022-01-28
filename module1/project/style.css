@@ -7,6 +7,7 @@ header{
     justify-content:space-between;
     margin-left:3rem;
     margin-right: 3rem;
+    margin-bottom: 1rem;
 }
 header>h1{
     font-weight: 300;
@@ -15,7 +16,7 @@ nav{
     width: 30vw;
     position: relative;
     top:1rem;
-    right: 2.5rem;
+    right: 1.5rem;
 }
 
 ul{
@@ -31,4 +32,10 @@ a{
     text-decoration: none;
     color:black;
     font-size: 1.5rem;
+}
+
+section img{
+    position: relative;
+    width: 95vw;
+    left: 1.5vw;
 }
