@@ -13,10 +13,10 @@ header>h1{
     font-weight: 300;
 }
 nav{
-    width: 30vw;
+    width: 28rem;
     position: relative;
     top:1rem;
-    right: 1.5rem;
+    right: 2rem;
 }
 
 ul{
