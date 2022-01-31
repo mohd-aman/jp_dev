@@ -1,4 +1,4 @@
-//Normal fxn
+// Normal fxn
 
 function sayHi(){
     console.log("function says Hi!!!");
