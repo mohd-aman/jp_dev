@@ -7,29 +7,27 @@
     <title>Document</title>
 </head>
 <body>
-    <button>Hi I am button click on me!!!</button>
-    <div>Hello I am div 1</div>
-    <div>Hello I am div 2</div>
-    <div>Hello I am div 3</div>
-    <h1>I am heading</h1>
-    <h1>I am heading 2</h1>
-    <h2>I am sub heading</h2>
+    <button xyz = "custom attribute" class="first">Hi I am button click on me!!!</button>
 </body>
 <script>
     console.log("Hello world!!!");
     let btn = document.querySelector("button");
+    let attr = btn.getAttribute("xyz");
+    console.log("xyz attribute : ",attr);
     console.log(btn);
-    console.log("-----------------------------------------------")
-    let variableDiv = document.querySelector("div");
-    console.log(variableDiv);
-    console.log("----------------------------------------------");
-    let allDiv = document.querySelectorAll("div");
-    console.log(allDiv);
-    console.log("----------------------");
-    let h2Ele = document.querySelector("h2");
-    console.log(h2Ele)
-    console.log("-------------------------");
-    let allH1 = document.querySelectorAll("h1");
-    console.log(allH1)
+    let ele = document.createElement("div");
+    ele.innerHTML = "I am a div";
+    // console.log(ele);
+    let body = document.querySelector("body");
+    body.appendChild(ele);
+    btn.style.width = "480px";
+    btn.style.height = "2rem";
+    btn.style.marginLeft = "2rem";
+    btn.style.backgroundColor = "black";
+    btn.style.color = "white";
+    ele.style.width = "360px";
+    ele.style.height = "1.5rem";
+    ele.style.color = "green";
+    ele.style.marginLeft = "2rem";
 </script>
 </html>
