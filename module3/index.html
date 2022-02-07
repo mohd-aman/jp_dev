@@ -11,23 +11,31 @@
 </body>
 <script>
     console.log("Hello world!!!");
-    let btn = document.querySelector("button");
-    let attr = btn.getAttribute("xyz");
-    console.log("xyz attribute : ",attr);
-    console.log(btn);
-    let ele = document.createElement("div");
-    ele.innerHTML = "I am a div";
-    // console.log(ele);
     let body = document.querySelector("body");
-    body.appendChild(ele);
+    let btn = document.querySelector("button");
+    // let attr = btn.getAttribute("xyz");
+    // console.log("xyz attribute : ",attr);
+    // console.log(btn);
+    // console.log(ele);
     btn.style.width = "480px";
     btn.style.height = "2rem";
     btn.style.marginLeft = "2rem";
     btn.style.backgroundColor = "black";
     btn.style.color = "white";
-    ele.style.width = "360px";
-    ele.style.height = "1.5rem";
-    ele.style.color = "green";
-    ele.style.marginLeft = "2rem";
+    //addEventlistener
+
+    btn.addEventListener("click",function(){
+        // console.log("Button is clicked");
+        let ele = document.createElement("div");
+        ele.innerHTML = "Button is clicked";
+        ele.style.margin = "2rem";
+        ele.style.marginLeft = "6rem";
+        ele.style.width = "250px";
+        ele.style.height = "1.rem";
+        ele.style.backgroundColor="black";
+        ele.style.color = "white";
+        ele.style.textAlign = "center";
+        body.appendChild(ele);
+    })
 </script>
 </html>
