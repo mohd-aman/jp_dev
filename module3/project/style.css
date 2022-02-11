@@ -21,11 +21,17 @@ body{
     background-color: teal;
     border-top-left-radius: 1rem;
     border-top-right-radius: 1rem;
-    color: white;
+    color:lightgrey
 }
 .heading h3{
     cursor: pointer;
+    /* color: lightgray; */
 }
+
+.active{
+    color:white;
+}
+
 .tasks{
     height: 90%;
     width: 100%;
