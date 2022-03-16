@@ -1,0 +1,290 @@
+[
+    {
+        "Name": "Community Centre C 12 Yamuna V",
+        "Address": "Community Centre C 12 Yamuna Vihar (1104009)NORTH EAST DELHI, North East Delhi, Delhi, 110053",
+        "Vaccine": "COVAXINFree",
+        "AgeGroup": "15 & Above",
+        "Dose": "Precaution",
+        "Slot": "1 Slots",
+        "Date": "Thu, 17 Mar"
+    },
+    {
+        "Name": "EDMC Pr School C1 Yamuna Vihar",
+        "Address": "EDMC Primary School C-1 Yamuna Vihar, North East Delhi, Delhi, 110053",
+        "Vaccine": "COVAXINFree",
+        "AgeGroup": "15 & Above",
+        "Dose": "Precaution",
+        "Slot": "1 Slots",
+        "Date": "Thu, 17 Mar"
+    },
+    {
+        "Name": "EDMC Pr School Chauhan Bangar",
+        "Address": "Chauhan Bangar North East Delhi, North East Delhi, Delhi, 110053",
+        "Vaccine": "COVISHIELDFree",
+        "AgeGroup": "18 & Above",
+        "Dose": "Precaution",
+        "Slot": "1 Slots",
+        "Date": "Thu, 17 Mar"
+    },
+    {
+        "Name": "EDMC Pr School Chauhan Bangar",
+        "Address": "Chauhan Bangar North East Delhi, North East Delhi, Delhi, 110053",
+        "Vaccine": "COVAXINFree",
+        "AgeGroup": "15 & Above",
+        "Dose": "Precaution",
+        "Slot": "1 Slots",
+        "Date": "Thu, 17 Mar"
+    },
+    {
+        "Name": "EDMC Pri School Shastri Park",
+        "Address": "Near DDA Ground Durga Mandir North East Delhi, North East Delhi, Delhi, 110053",
+        "Vaccine": "COVISHIELDFree",
+        "AgeGroup": "18 & Above",
+        "Dose": "Precaution",
+        "Slot": "1 Slots",
+        "Date": "Thu, 17 Mar"
+    },
+    {
+        "Name": "EDMC Pri School Shastri Park",
+        "Address": "Near DDA Ground Durga Mandir North East Delhi, North East Delhi, Delhi, 110053",
+        "Vaccine": "COVAXINFree",
+        "AgeGroup": "15 & Above",
+        "Dose": "Precaution",
+        "Slot": "1 Slots",
+        "Date": "Thu, 17 Mar"
+    },
+    {
+        "Name": "EDMC Primary Sch Bhajanpura S1",
+        "Address": "EDMC Primary School B And D Block Bhajanpura North East Delhi, North East Delhi, Delhi, 110053",
+        "Vaccine": "COVAXINFree",
+        "AgeGroup": "15 & Above",
+        "Dose": "Precaution",
+        "Slot": "1 Slots",
+        "Date": "Thu, 17 Mar"
+    },
+    {
+        "Name": "EDMC Primary Sch Bhajanpura S1",
+        "Address": "EDMC Primary School B And D Block Bhajanpura North East Delhi, North East Delhi, Delhi, 110053",
+        "Vaccine": "COVISHIELDFree",
+        "AgeGroup": "18 & Above",
+        "Dose": "Precaution",
+        "Slot": "1 Slots",
+        "Date": "Thu, 17 Mar"
+    },
+    {
+        "Name": "EDMC Schol MohnPuri Vjy Park 1",
+        "Address": "EDMC Primary School Mohan PuriVijay ParkDelhi, Shahdara, Delhi, 110053",
+        "Vaccine": "CORBEVAXFree",
+        "AgeGroup": "12-14 Only",
+        "Dose": "#1",
+        "Slot": "139 Slots",
+        "Date": "Thu, 17 Mar"
+    },
+    {
+        "Name": "EDMC Schol MohnPuriVijy Park-2",
+        "Address": "EDMC-Primary School Mohanpuri Vijay Park Maujpur, Shahdara, Delhi, 110053",
+        "Vaccine": "COVISHIELDFree",
+        "AgeGroup": "18 & Above",
+        "Dose": "#1",
+        "Slot": "100 Slots",
+        "Date": "Thu, 17 Mar"
+    },
+    {
+        "Name": "EDMC Schol MohnPuriVijy Park-2",
+        "Address": "EDMC-Primary School Mohanpuri Vijay Park Maujpur, Shahdara, Delhi, 110053",
+        "Vaccine": "COVISHIELDFree",
+        "AgeGroup": "18 & Above",
+        "Dose": "#2",
+        "Slot": "200 Slots",
+        "Date": "Thu, 17 Mar"
+    },
+    {
+        "Name": "EDMC Schol MohnPuriVijy Park-2",
+        "Address": "EDMC-Primary School Mohanpuri Vijay Park Maujpur, Shahdara, Delhi, 110053",
+        "Vaccine": "COVISHIELDFree",
+        "AgeGroup": "18 & Above",
+        "Dose": "Precaution",
+        "Slot": "100 Slots",
+        "Date": "Thu, 17 Mar"
+    },
+    {
+        "Name": "GBSSS Jafrabad Extn Site 1",
+        "Address": "GBSSS Jafrabad Extn., Shahdara, Delhi, 110053",
+        "Vaccine": "CORBEVAXFree",
+        "AgeGroup": "12-14 Only",
+        "Dose": "#1",
+        "Slot": "144 Slots",
+        "Date": "Thu, 17 Mar"
+    },
+    {
+        "Name": "GBSSS Jafrabad Extn Site 2",
+        "Address": "GBSSS Jafrabad Extn, Shahdara, Delhi, 110053",
+        "Vaccine": "COVISHIELDFree",
+        "AgeGroup": "18 & Above",
+        "Dose": "#1",
+        "Slot": "100 Slots",
+        "Date": "Thu, 17 Mar"
+    },
+    {
+        "Name": "GBSSS Jafrabad Extn Site 2",
+        "Address": "GBSSS Jafrabad Extn, Shahdara, Delhi, 110053",
+        "Vaccine": "COVISHIELDFree",
+        "AgeGroup": "18 & Above",
+        "Dose": "#2",
+        "Slot": "199 Slots",
+        "Date": "Thu, 17 Mar"
+    },
+    {
+        "Name": "GBSSS Jafrabad Extn Site 2",
+        "Address": "GBSSS Jafrabad Extn, Shahdara, Delhi, 110053",
+        "Vaccine": "COVISHIELDFree",
+        "AgeGroup": "18 & Above",
+        "Dose": "Precaution",
+        "Slot": "100 Slots",
+        "Date": "Thu, 17 Mar"
+    },
+    {
+        "Name": "MCW Welcome Seelampur PHC",
+        "Address": "MCW CENTER WELCOME NEAR COMMUNITY HALL, Shahdara, Delhi, 110053",
+        "Vaccine": "COVISHIELDFree",
+        "AgeGroup": "18 & Above",
+        "Dose": "#1",
+        "Slot": "100 Slots",
+        "Date": "Thu, 17 Mar"
+    },
+    {
+        "Name": "MCW Welcome Seelampur PHC",
+        "Address": "MCW CENTER WELCOME NEAR COMMUNITY HALL, Shahdara, Delhi, 110053",
+        "Vaccine": "COVISHIELDFree",
+        "AgeGroup": "18 & Above",
+        "Dose": "#2",
+        "Slot": "200 Slots",
+        "Date": "Thu, 17 Mar"
+    },
+    {
+        "Name": "MCW Welcome Seelampur PHC",
+        "Address": "MCW CENTER WELCOME NEAR COMMUNITY HALL, Shahdara, Delhi, 110053",
+        "Vaccine": "COVISHIELDFree",
+        "AgeGroup": "18 & Above",
+        "Dose": "Precaution",
+        "Slot": "100 Slots",
+        "Date": "Thu, 17 Mar"
+    },
+    {
+        "Name": "Nigam Pratibha Vidhyalay",
+        "Address": "Arvind Nagar Ghonda North East Delhi, North East Delhi, Delhi, 110053",
+        "Vaccine": "COVAXINFree",
+        "AgeGroup": "15 & Above",
+        "Dose": "Precaution",
+        "Slot": "1 Slots",
+        "Date": "Thu, 17 Mar"
+    },
+    {
+        "Name": "Nigam Pratibha Vidhyalay",
+        "Address": "Arvind Nagar Ghonda North East Delhi, North East Delhi, Delhi, 110053",
+        "Vaccine": "COVISHIELDFree",
+        "AgeGroup": "18 & Above",
+        "Dose": "Precaution",
+        "Slot": "1 Slots",
+        "Date": "Thu, 17 Mar"
+    },
+    {
+        "Name": "EDMC Schol MohnPuri Vjy Park 1",
+        "Address": "EDMC Primary School Mohan PuriVijay ParkDelhi, Shahdara, Delhi, 110053",
+        "Vaccine": "CORBEVAXFree",
+        "AgeGroup": "12-14 Only",
+        "Dose": "#1",
+        "Slot": "147 Slots",
+        "Date": "Sat, 19 Mar"
+    },
+    {
+        "Name": "EDMC Schol MohnPuriVijy Park-2",
+        "Address": "EDMC-Primary School Mohanpuri Vijay Park Maujpur, Shahdara, Delhi, 110053",
+        "Vaccine": "COVISHIELDFree",
+        "AgeGroup": "18 & Above",
+        "Dose": "#1",
+        "Slot": "100 Slots",
+        "Date": "Sat, 19 Mar"
+    },
+    {
+        "Name": "EDMC Schol MohnPuriVijy Park-2",
+        "Address": "EDMC-Primary School Mohanpuri Vijay Park Maujpur, Shahdara, Delhi, 110053",
+        "Vaccine": "COVISHIELDFree",
+        "AgeGroup": "18 & Above",
+        "Dose": "#2",
+        "Slot": "197 Slots",
+        "Date": "Sat, 19 Mar"
+    },
+    {
+        "Name": "EDMC Schol MohnPuriVijy Park-2",
+        "Address": "EDMC-Primary School Mohanpuri Vijay Park Maujpur, Shahdara, Delhi, 110053",
+        "Vaccine": "COVISHIELDFree",
+        "AgeGroup": "18 & Above",
+        "Dose": "Precaution",
+        "Slot": "100 Slots",
+        "Date": "Sat, 19 Mar"
+    },
+    {
+        "Name": "GBSSS Jafrabad Extn Site 1",
+        "Address": "GBSSS Jafrabad Extn., Shahdara, Delhi, 110053",
+        "Vaccine": "CORBEVAXFree",
+        "AgeGroup": "12-14 Only",
+        "Dose": "#1",
+        "Slot": "149 Slots",
+        "Date": "Sat, 19 Mar"
+    },
+    {
+        "Name": "GBSSS Jafrabad Extn Site 2",
+        "Address": "GBSSS Jafrabad Extn, Shahdara, Delhi, 110053",
+        "Vaccine": "COVISHIELDFree",
+        "AgeGroup": "18 & Above",
+        "Dose": "#1",
+        "Slot": "100 Slots",
+        "Date": "Sat, 19 Mar"
+    },
+    {
+        "Name": "GBSSS Jafrabad Extn Site 2",
+        "Address": "GBSSS Jafrabad Extn, Shahdara, Delhi, 110053",
+        "Vaccine": "COVISHIELDFree",
+        "AgeGroup": "18 & Above",
+        "Dose": "#2",
+        "Slot": "200 Slots",
+        "Date": "Sat, 19 Mar"
+    },
+    {
+        "Name": "GBSSS Jafrabad Extn Site 2",
+        "Address": "GBSSS Jafrabad Extn, Shahdara, Delhi, 110053",
+        "Vaccine": "COVISHIELDFree",
+        "AgeGroup": "18 & Above",
+        "Dose": "Precaution",
+        "Slot": "100 Slots",
+        "Date": "Sat, 19 Mar"
+    },
+    {
+        "Name": "MCW Welcome Seelampur PHC",
+        "Address": "MCW CENTER WELCOME NEAR COMMUNITY HALL, Shahdara, Delhi, 110053",
+        "Vaccine": "COVISHIELDFree",
+        "AgeGroup": "18 & Above",
+        "Dose": "#1",
+        "Slot": "100 Slots",
+        "Date": "Sat, 19 Mar"
+    },
+    {
+        "Name": "MCW Welcome Seelampur PHC",
+        "Address": "MCW CENTER WELCOME NEAR COMMUNITY HALL, Shahdara, Delhi, 110053",
+        "Vaccine": "COVISHIELDFree",
+        "AgeGroup": "18 & Above",
+        "Dose": "#2",
+        "Slot": "200 Slots",
+        "Date": "Sat, 19 Mar"
+    },
+    {
+        "Name": "MCW Welcome Seelampur PHC",
+        "Address": "MCW CENTER WELCOME NEAR COMMUNITY HALL, Shahdara, Delhi, 110053",
+        "Vaccine": "COVISHIELDFree",
+        "AgeGroup": "18 & Above",
+        "Dose": "Precaution",
+        "Slot": "100 Slots",
+        "Date": "Sat, 19 Mar"
+    }
+]

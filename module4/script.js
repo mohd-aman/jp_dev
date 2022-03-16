@@ -1,4 +1,5 @@
 const puppeteer = require('puppeteer');
+const fs = require("fs");
 let pin = "110053";
 (async () => {
   const browser = await puppeteer.launch({ headless: false });
@@ -48,6 +49,7 @@ let pin = "110053";
       }
       return a;
   })
-  console.log(arr);
+  let vaccineSchedule = JSON.stringify(arr);
+  fs.writeFileSync("ScheduleOfVaccination.json",vaccineSchedule);
   browser.close();
 })();
