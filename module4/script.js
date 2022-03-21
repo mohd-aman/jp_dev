@@ -80,8 +80,8 @@ let pin = process.argv[2];
     extraLength: 7, // A bigger number means that columns will be wider
     writeOptions: {}, // Style options from https://github.com/SheetJS/sheetjs#writing-options
   }
-  
   xlsx(data, settings)
   fs.writeFileSync("ScheduleOfVaccination.json",vaccineSchedule);
+  console.log(vaccineSchedule);
   browser.close();
 })();

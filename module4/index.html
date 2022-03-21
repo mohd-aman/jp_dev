@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Covid</title>
+    <style>
+        .container{
+    width: 80vw;
+    display: flex;
+    justify-content: space-around;
+}
+input{
+    width: 16rem;
+    height: 2rem;
+    outline: none;
+}
+button{
+    background-color: aliceblue;
+    color: green;
+}
+.detail{
+    border: 2px;
+    border-style: solid;
+    border-color: red;
+    margin: 2rem;
+    
+}
+    </style>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <input class="pin" type="text" placeholder="Enter pin of your locality">
+        <input class="age" type="text" placeholder="Enter your age">
+        <input class="email" type="text" placeholder="Email address">
+        <button>Get Schedule</button>
+    </div>
+    <div class="item">
+
+    </div>
+</body>
+<script>
+    let btn = document.querySelector("button");
+    let item = document.querySelector(".item");
+    btn.addEventListener("click",async function(){
+        while (item.firstChild) {
+            item.removeChild(item.firstChild);
+        }
+        let pin = document.querySelector(".pin").value;
+        let age = document.querySelector(".age").value;
+        let email = document.querySelector(".email").value;
+        const response = await axios.get(`/details/${pin}/${age}/${email}`);
+        // console.log(response.data);
+        let arr = response.data;
+        for(let i=0;i<arr.length;i++){
+            let div = document.createElement("div");
+            div.classList.add("detail");
+            let flag = true;
+            // console.log(arr[i]);
+            for(let key in arr[i]){
+                let h5 = document.createElement("h5");
+                let p = document.createElement("p");
+                h5.innerText = key;
+                p.innerText = arr[i][key];
+                div.appendChild(h5);
+                div.appendChild(p);
+            }
+            item.appendChild(div);
+        }
+    })
+</script>
+</html>
