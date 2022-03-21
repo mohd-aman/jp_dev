@@ -1,6 +1,8 @@
 const puppeteer = require('puppeteer');
 const fs = require("fs");
-let pin = "110053";
+const xlsx = require("json-as-xlsx")
+
+let pin = process.argv[2];
 (async () => {
   const browser = await puppeteer.launch({ headless: false });
   const page = await browser.newPage();
@@ -45,11 +47,41 @@ let pin = "110053";
                     Date:date
                 }
                 a.push(obj);}
-          } 
+          }
       }
       return a;
   })
   let vaccineSchedule = JSON.stringify(arr);
+  let data = [
+    {
+      sheet: "ScheduleOfVaccine",
+    //   "Name": "EDMC P S Vasundhra Enclave S-1",
+    //     "Address": "EDMC PRIMERY School Vasundhra Enclave, East Delhi, Delhi, 110096",
+    //     "Vaccine": "COVISHIELDFree",
+    //     "AgeGroup": "18 & Above",
+    //     "Dose": "#2",
+    //     "Slot": "60 Slots",
+    //     "Date": "Tue, 22 Mar"
+      columns: [
+        { label: "Name", value: "Name" }, // Top level data
+        {label: "Address", value: "Address"},
+        {label: "Vaccine", value: "Vaccine"},
+        {label: "AgeGroup", value:"AgeGroup"},
+        {label: "Dose", value:"Dose"},
+        {label: "Slot", value:"Slot"},
+        {label: "Date", value:"Date"}
+      ],
+      content: arr
+    },
+  ]
+  
+  let settings = {
+    fileName: "Schedule", // Name of the resulting spreadsheet
+    extraLength: 7, // A bigger number means that columns will be wider
+    writeOptions: {}, // Style options from https://github.com/SheetJS/sheetjs#writing-options
+  }
+  
+  xlsx(data, settings)
   fs.writeFileSync("ScheduleOfVaccination.json",vaccineSchedule);
   browser.close();
 })();
