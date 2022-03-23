@@ -3,6 +3,7 @@ const fs = require("fs");
 const xlsx = require("json-as-xlsx")
 
 let pin = process.argv[2];
+let age = Number(process.argv[3]);
 (async () => {
   const browser = await puppeteer.launch({ headless: false });
   const page = await browser.newPage();
@@ -21,6 +22,19 @@ let pin = process.argv[2];
       searchButton.click();
       return;
   })
+  await page.waitForSelector("ul label.accessibility-plugin-ac");
+  await page.waitForTimeout(5000);
+  await page.evaluate(function(age){
+    let allAge = document.querySelectorAll("ul label.accessibility-plugin-ac");
+    if(age>=12 && age<=14){
+      allAge[0].click();
+    }else if(age>=15 && age<=18){
+      allAge[1].click();
+    }else if(age>18){
+      allAge[2].click();
+    }
+    return;
+  },age)
   await page.waitForSelector(".item.active li");
   await page.waitForSelector(".col-sm-12.col-md-12.col-lg-12.cvc-list-item.ng-star-inserted");
   let arr = await page.evaluate(function(){

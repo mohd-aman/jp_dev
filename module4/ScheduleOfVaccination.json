@@ -1,1 +1,65 @@
-[{"Name":"SKV Rajokari Site 1","Address":"Sarvodaya Kanya Vidyalaya Rajokari New Delhi- 110038, New Delhi, Delhi, 110038","Vaccine":"COVAXINFree","AgeGroup":"15 & Above","Dose":"#1","Slot":"50 Slots","Date":"Tue, 22 Mar"},{"Name":"SKV Rajokari Site 1","Address":"Sarvodaya Kanya Vidyalaya Rajokari New Delhi- 110038, New Delhi, Delhi, 110038","Vaccine":"COVAXINFree","AgeGroup":"15 & Above","Dose":"#2","Slot":"49 Slots","Date":"Tue, 22 Mar"},{"Name":"SKV Rajokari Site 1","Address":"Sarvodaya Kanya Vidyalaya Rajokari New Delhi- 110038, New Delhi, Delhi, 110038","Vaccine":"COVAXINFree","AgeGroup":"15 & Above","Dose":"Precaution","Slot":"20 Slots","Date":"Tue, 22 Mar"},{"Name":"SKV Rajokari Site 2","Address":"Sarvodaya Kanya Vidyalaya Rajokari New Delhi- 110038, New Delhi, Delhi, 110038","Vaccine":"COVISHIELDFree","AgeGroup":"18 & Above","Dose":"#1","Slot":"50 Slots","Date":"Tue, 22 Mar"},{"Name":"SKV Rajokari Site 2","Address":"Sarvodaya Kanya Vidyalaya Rajokari New Delhi- 110038, New Delhi, Delhi, 110038","Vaccine":"COVISHIELDFree","AgeGroup":"18 & Above","Dose":"#2","Slot":"47 Slots","Date":"Tue, 22 Mar"},{"Name":"SKV Rajokari Site 2","Address":"Sarvodaya Kanya Vidyalaya Rajokari New Delhi- 110038, New Delhi, Delhi, 110038","Vaccine":"COVISHIELDFree","AgeGroup":"18 & Above","Dose":"Precaution","Slot":"20 Slots","Date":"Tue, 22 Mar"},{"Name":"SKV Rajokari Site 3","Address":"Sarvodaya Kanya Vidyalaya Rajokari New Delhi- 110038, New Delhi, Delhi, 110038","Vaccine":"CORBEVAXFree","AgeGroup":"12-14 Only","Dose":"#1","Slot":"90 Slots","Date":"Tue, 22 Mar"},{"Name":"SKV Rajokari Site 1","Address":"Sarvodaya Kanya Vidyalaya Rajokari New Delhi- 110038, New Delhi, Delhi, 110038","Vaccine":"COVAXINFree","AgeGroup":"15 & Above","Dose":"#1","Slot":"50 Slots","Date":"Wed, 23 Mar"},{"Name":"SKV Rajokari Site 1","Address":"Sarvodaya Kanya Vidyalaya Rajokari New Delhi- 110038, New Delhi, Delhi, 110038","Vaccine":"COVAXINFree","AgeGroup":"15 & Above","Dose":"#2","Slot":"49 Slots","Date":"Wed, 23 Mar"},{"Name":"SKV Rajokari Site 1","Address":"Sarvodaya Kanya Vidyalaya Rajokari New Delhi- 110038, New Delhi, Delhi, 110038","Vaccine":"COVAXINFree","AgeGroup":"15 & Above","Dose":"Precaution","Slot":"20 Slots","Date":"Wed, 23 Mar"},{"Name":"SKV Rajokari Site 2","Address":"Sarvodaya Kanya Vidyalaya Rajokari New Delhi- 110038, New Delhi, Delhi, 110038","Vaccine":"COVISHIELDFree","AgeGroup":"18 & Above","Dose":"#1","Slot":"50 Slots","Date":"Wed, 23 Mar"},{"Name":"SKV Rajokari Site 2","Address":"Sarvodaya Kanya Vidyalaya Rajokari New Delhi- 110038, New Delhi, Delhi, 110038","Vaccine":"COVISHIELDFree","AgeGroup":"18 & Above","Dose":"#2","Slot":"50 Slots","Date":"Wed, 23 Mar"},{"Name":"SKV Rajokari Site 2","Address":"Sarvodaya Kanya Vidyalaya Rajokari New Delhi- 110038, New Delhi, Delhi, 110038","Vaccine":"COVISHIELDFree","AgeGroup":"18 & Above","Dose":"Precaution","Slot":"20 Slots","Date":"Wed, 23 Mar"},{"Name":"SKV Rajokari Site 3","Address":"Sarvodaya Kanya Vidyalaya Rajokari New Delhi- 110038, New Delhi, Delhi, 110038","Vaccine":"CORBEVAXFree","AgeGroup":"12-14 Only","Dose":"#1","Slot":"96 Slots","Date":"Wed, 23 Mar"},{"Name":"SKV Rajokari Site 1","Address":"Sarvodaya Kanya Vidyalaya Rajokari New Delhi- 110038, New Delhi, Delhi, 110038","Vaccine":"COVAXINFree","AgeGroup":"15 & Above","Dose":"#1","Slot":"50 Slots","Date":"Thu, 24 Mar"},{"Name":"SKV Rajokari Site 1","Address":"Sarvodaya Kanya Vidyalaya Rajokari New Delhi- 110038, New Delhi, Delhi, 110038","Vaccine":"COVAXINFree","AgeGroup":"15 & Above","Dose":"#2","Slot":"50 Slots","Date":"Thu, 24 Mar"},{"Name":"SKV Rajokari Site 1","Address":"Sarvodaya Kanya Vidyalaya Rajokari New Delhi- 110038, New Delhi, Delhi, 110038","Vaccine":"COVAXINFree","AgeGroup":"15 & Above","Dose":"Precaution","Slot":"20 Slots","Date":"Thu, 24 Mar"},{"Name":"SKV Rajokari Site 2","Address":"Sarvodaya Kanya Vidyalaya Rajokari New Delhi- 110038, New Delhi, Delhi, 110038","Vaccine":"COVISHIELDFree","AgeGroup":"18 & Above","Dose":"#1","Slot":"50 Slots","Date":"Thu, 24 Mar"},{"Name":"SKV Rajokari Site 2","Address":"Sarvodaya Kanya Vidyalaya Rajokari New Delhi- 110038, New Delhi, Delhi, 110038","Vaccine":"COVISHIELDFree","AgeGroup":"18 & Above","Dose":"#2","Slot":"50 Slots","Date":"Thu, 24 Mar"},{"Name":"SKV Rajokari Site 2","Address":"Sarvodaya Kanya Vidyalaya Rajokari New Delhi- 110038, New Delhi, Delhi, 110038","Vaccine":"COVISHIELDFree","AgeGroup":"18 & Above","Dose":"Precaution","Slot":"20 Slots","Date":"Thu, 24 Mar"}]
+[
+    {
+        "Name": "EDMC Schol MohnPuri Vjy Park 1",
+        "Address": "EDMC Primary School Mohan PuriVijay ParkDelhi, Shahdara, Delhi, 110053",
+        "Vaccine": "CORBEVAXFree",
+        "AgeGroup": "12-14 Only",
+        "Dose": "#1",
+        "Slot": "105 Slots",
+        "Date": "Wed, 23 Mar"
+    },
+    {
+        "Name": "EDMC Schol MohnPuri Vjy Park 1",
+        "Address": "EDMC Primary School Mohan PuriVijay ParkDelhi, Shahdara, Delhi, 110053",
+        "Vaccine": "CORBEVAXFree",
+        "AgeGroup": "12-14 Only",
+        "Dose": "#1",
+        "Slot": "137 Slots",
+        "Date": "Thu, 24 Mar"
+    },
+    {
+        "Name": "GBSSS Jafrabad Extn Site 1",
+        "Address": "GBSSS Jafrabad Extn., Shahdara, Delhi, 110053",
+        "Vaccine": "CORBEVAXFree",
+        "AgeGroup": "12-14 Only",
+        "Dose": "#1",
+        "Slot": "147 Slots",
+        "Date": "Thu, 24 Mar"
+    },
+    {
+        "Name": "EDMC Schol MohnPuri Vjy Park 1",
+        "Address": "EDMC Primary School Mohan PuriVijay ParkDelhi, Shahdara, Delhi, 110053",
+        "Vaccine": "CORBEVAXFree",
+        "AgeGroup": "12-14 Only",
+        "Dose": "#1",
+        "Slot": "149 Slots",
+        "Date": "Fri, 25 Mar"
+    },
+    {
+        "Name": "GBSSS Jafrabad Extn Site 1",
+        "Address": "GBSSS Jafrabad Extn., Shahdara, Delhi, 110053",
+        "Vaccine": "CORBEVAXFree",
+        "AgeGroup": "12-14 Only",
+        "Dose": "#1",
+        "Slot": "148 Slots",
+        "Date": "Fri, 25 Mar"
+    },
+    {
+        "Name": "EDMC Schol MohnPuri Vjy Park 1",
+        "Address": "EDMC Primary School Mohan PuriVijay ParkDelhi, Shahdara, Delhi, 110053",
+        "Vaccine": "CORBEVAXFree",
+        "AgeGroup": "12-14 Only",
+        "Dose": "#1",
+        "Slot": "149 Slots",
+        "Date": "Sat, 26 Mar"
+    },
+    {
+        "Name": "GBSSS Jafrabad Extn Site 1",
+        "Address": "GBSSS Jafrabad Extn., Shahdara, Delhi, 110053",
+        "Vaccine": "CORBEVAXFree",
+        "AgeGroup": "12-14 Only",
+        "Dose": "#1",
+        "Slot": "149 Slots",
+        "Date": "Sat, 26 Mar"
+    }
+]
